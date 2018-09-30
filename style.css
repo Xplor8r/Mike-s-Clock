@@ -57,7 +57,6 @@
 }
 
 /* Make all arms rotate around the same center point. */
-/* Use transition for animation. */
 #hour,
 #minute,
 #second {
